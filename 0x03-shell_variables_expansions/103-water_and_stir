@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $((WATER + STIR))
+echo -e $((10#$water + 10#$stir))'behlnort'
